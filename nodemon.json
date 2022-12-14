@@ -1,0 +1,8 @@
+{
+  "env": {
+    "DB_USER": "ebuka",
+    "DB_PASSWORD": "ebuka",
+    "DB_NAME": "mern",
+    "jwt_key": "supersecret_key"
+  }
+}
